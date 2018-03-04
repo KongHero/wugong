@@ -10,6 +10,8 @@ public class duGuJiuJian {
 		System.out.println("55555555555555555");
 		System.out.println("6666666666666");
 		System.out.println("4777777777777777");
+		System.out.println("XXXXXXXXXXXXXXXXXXXX");
+		
 	}
 
 }
